@@ -1,12 +1,24 @@
 # 🧮 Calculadora em Python
 
-Projeto simples desenvolvido para praticar lógica de programação.
+Este é um projeto simples desenvolvido com o objetivo de praticar lógica de programação utilizando Python.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
 
-## Tecnologias
+## 🧠 Aprendizados
+- Entrada de dados com input()
+- Uso de estruturas condicionais (if/else)
+- Lógica de programação básica
+
+## 💻 Tecnologias utilizadas
 - Python
+
+## 📌 Objetivo
+Este projeto faz parte do meu processo de aprendizado na área de programação e desenvolvimento.
+
+---
+
+Feito com dedicação por Josiane 💜
